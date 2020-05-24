@@ -3,8 +3,8 @@
 ############# CREDIT to barryclark/jekyll-now FOR TEMPLATE ##########
 
 name: Mariam Joan
-description: Data Specialist/Analyst and Developer | Contractor at Netflix
-avatar:
+description: Data Specialist/Analyst/Developer, Contractor at Netflix
+# avatar:
 
 footer-links:
   email: https://mariamjoan.herokuapp.com/#contact
