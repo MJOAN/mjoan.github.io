@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Please find all details [here](https://mariamjoan.herokuapp.com/#about)
 
-### More Information
+### Contact Me!
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email@mariamjoan.com](https://mariamjoan.herokuapp.com/#contact)
